@@ -1,0 +1,25 @@
+{
+  "name": "luis-teach",
+  "version": "1.0.0",
+  "description": "git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vfranco/html5.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "vfranco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vfranco/html5/issues"
+  },
+  "homepage": "https://github.com/Vfranco/html5#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
